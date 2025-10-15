@@ -1,7 +1,7 @@
 # 📘 AI-Powered Study Buddy
 
 **Author:** Vishal V P  
-**Deployed via:** [Lovable.dev](https://lovable.dev)  
+**Live Demo URL:** https://study-buddy-ai-mate.lovable.app/
 
 ---
 
@@ -74,7 +74,56 @@ This project uses AI to **simplify, summarize, and personalize** learning for ev
 
 ### 1. Clone the Repository
 
-```bash
-git clone <YOUR_GIT_URL>
-cd ai-powered-study-buddy
-```
+  ```bash
+  git clone <YOUR_GIT_URL>
+  cd ai-powered-study-buddy
+  ```
+
+### 2. Install Dependencies
+
+  ```bash
+  npm install
+  ```
+
+### 3. Start the Development Server
+
+  ```bash
+  npm run dev
+  ```
+The app will now be live on http://localhost:5173
+
+---
+
+## 🧭 Tips for Best Performance
+
+- Keep dependencies updated.
+- Use .env files to store your API keys securely.
+- Test responsiveness on multiple screen sizes.
+- Use compression and lazy loading to optimize performance.
+- Monitor AI usage limits to avoid throttling.
+
+---
+
+## ❤️ Author
+
+- Created by Vishal V P
+
+---
+
+# “Learning made smarter, faster, and simpler — powered by AI.”
+
+---
+
+## 📜 License
+
+### This project is open-source and available under the MIT License.
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178c6)
+![Tailwind](https://img.shields.io/badge/UI-TailwindCSS-38bdf8)
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black)
+![Lovable](https://img.shields.io/badge/Created_with-Lovable.dev-ff69b4)
+
+---
